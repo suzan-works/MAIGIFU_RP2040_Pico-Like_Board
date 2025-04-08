@@ -3,6 +3,8 @@
 Mouser Make Awards 2024で最優秀賞を受賞して3万円分の電子部品をゲットしたのですが、みんなで楽しめる方法を考えてマイコンボードを設計製作して配ることにしました。マイコンボードを岐阜でギフト＝ #まいぎふ として設計を進める中で、JLCPCBの運営するOSHWLabがプロジェクト趣旨に賛同してくれて、プリント基板製造を支援してくれることになりました。  
 #まいぎふ マイコンボードで、電子工作初心者から上級者までみなさんに、もっと気軽に電子工作を楽しんでいただけるとうれしいです。  
 ## 特徴・仕様
+![外観1](https://github.com/suzan-works/MAIGIFU_RP2040_Pico-Like_Board/blob/main/image1.png)  
+![外観2](https://github.com/suzan-works/MAIGIFU_RP2040_Pico-Like_Board/blob/main/image2.png)  
 RP2040を搭載して、様々な開発環境に対応してしています。
 - C/C++
 - Arduino IDE
@@ -58,6 +60,11 @@ while True:
 
 - 現在のスクリプトを実行(F5)ボタンを押すと、ボード上のオレンジLEDが点滅します。
 
+## 設計情報 ([OSHWLabページ](https://oshwlab.com/suzan_works/rp2040_pico-compatible_maigifu_2)で公開しています)
+- 回路図  
+![回路図](https://github.com/suzan-works/MAIGIFU_RP2040_Pico-Like_Board/blob/main/Schematic1.png)  
+- プリント基板外観  
+![プリント基板外観](https://github.com/suzan-works/MAIGIFU_RP2040_Pico-Like_Board/blob/main/board.png)
 
 ## 関連情報
 ### ハードウェア
